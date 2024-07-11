@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: The EOTRAC ontology repository
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Daniela Fernanda
+    family-names: Milon-Flores
+    email: dmilonflores@gmail.com
+  - given-names: 'Camille '
+    family-names: Bernard
+    email: camille.bernard@univ-grenoble-alpes.fr
+  - given-names: 'Jérome '
+    family-names: Gensel
+    email: jerome.gensel@univ-grenoble-alpes.fr
+  - given-names: Gregory
+    family-names: Giuliani
+    email: gregory.giuliani@unige.ch
+date-released: '2024-04-12'
